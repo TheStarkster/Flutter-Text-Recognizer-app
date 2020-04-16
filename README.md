@@ -1,0 +1,1 @@
+Flutter-Text-Recognizer-app
